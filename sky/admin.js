@@ -4,7 +4,7 @@
    The UI markup and CSS remain completely unchanged.
    ============================================================= */
 
-const API = window.location.origin + "/api";   // adjust if server runs elsewhere
+const API = "https://praveen-ee2b.onrender.com/api";   // adjust if server runs elsewhere
 
 // ─────────────────────────────────────────────────────────────
 // CAPTCHA
